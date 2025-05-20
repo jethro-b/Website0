@@ -3,8 +3,8 @@ layout: layouts/base.njk
 ---
 <div class="about-section">
   <h1>About Me</h1>
-  <img src="biophoto.jpg" alt="photo description of me" style="width:300px">
-  <p>Some text about who I am and what I do.</p>
+  <img src="https://www.pop.upenn.edu/sites/default/files/styles/profile_list/public/2024-09/Jethro%20crop%20for%20website.jpeg?itok=5czo3Fh6" alt="photo description of me" style="width:300px">
+  <p>I am a first year PhD student in Demography.</p>
   <p>Resize the browser window to see that this page is responsive by the way.</p>
 </div>
 

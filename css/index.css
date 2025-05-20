@@ -4,10 +4,10 @@
 :root {
 
 
-	--background-color: #000;
+	--background-color: #b4acac0d;
 
 	--text-color: #fff;
-	--text-color-link: #0f2;
+	--text-color-link: rgb(8, 8, 8);
 	--text-color-link-active: #0ff;
 	--text-color-link-visited: #0b0;
 
